@@ -1,0 +1,26 @@
+{
+  "name": "rentas",
+  "version": "1.0.0",
+  "description": "tarea-de-este-parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BengieMine25/examen-parcial-api-rentas-bengie-medina.git"
+  },
+  "keywords": [
+    "1qaz0plm"
+  ],
+  "author": "bengie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BengieMine25/examen-parcial-api-rentas-bengie-medina/issues"
+  },
+  "homepage": "https://github.com/BengieMine25/examen-parcial-api-rentas-bengie-medina#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.3.1"
+  }
+}
